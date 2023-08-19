@@ -25,6 +25,8 @@
 
 exemplo negativo: Iniciar do windows
 
+![INICIAR DO WINDOWS](Bertoti\Engenharia de Software\imagens\Windows-10-install-is-stuck-during-Installation.webp)
+
 exemplo positivo: status do whatsapp
 
 #### 2 - Compatibilide e correspondência entre o sistema e o mundo real
