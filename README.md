@@ -29,11 +29,17 @@ exemplo negativo: Iniciar do windows
 
 exemplo positivo: status do whatsapp
 
+![StatusWhatsApp](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/fotojet-9.jpg)
+
 #### 2 - Compatibilide e correspondência entre o sistema e o mundo real
 
 exemplo negativo: Mensagem de erro 404 no navegador
 
+![Erro404](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/Wiki404.png)
+
 exemplo positivo: "Pastas" no sistema operacional (metáforas do OS para funcionalidades)
+
+![Folder]!(https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/folder.png)
 
 #### 3 - Liberdade e controle de usuário
 
@@ -41,44 +47,64 @@ exemplo negativo:
 
 exemplo positivo: control z (photoshop)
 
+![Photoshop](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/photoshop.png)
+
 #### 4 - Consistência e Padrões
 
 exemplo negativo: 
 
-exemplo positivo: Cores padrões (verde amarelo vermelho) para status / botão de fechar ou sair no topo direito da tela
+exemplo positivo: Cores padrões (verde amarelo vermelho) para status / botão de fechar ou sair no topo direito da tela)
+
+![Fechar](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/fechar min max.png)
 
 #### 5 - Prevenção de erros
 
 exemplo negativo: 
 
-exemplo positivo: 
+exemplo positivo: Mensagem de "tem certeza que deseja continuar?"
+![Continuar](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/confirmar_exclusao_empenho.png)
 
 #### 6 - Reconhecer ao invés de lembrar
 
 exemplo negativo: 
 
-exemplo positivo: 
+exemplo positivo: menu "cascata" com as opções 
+![Cascata](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/Cascata.png)
 
 #### 7 - Flexibilidade e Eficiência
 
 exemplo negativo: 
 
-exemplo positivo: Atalhos do teclado
+exemplo positivo: Atalhos do teclado photoshop
+
+![Atalhos](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/photoshop-cheat-sheet-featured.jpg)
 
 #### 8 - Estética e Design minimalista
 
 exemplo negativo: Sites antigos (internet antes das redes sociais)
 
-exemplo positivo:  
+![Site2000's](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/bad-und-ugly-websites-preview.png)
+
+exemplo positivo: Google
+
+![Google](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/Google_web_search.png)
 
 #### 9 - Auxiliar usuários a reconhecer, diagnosticar e recuperar erros
 
 exemplo negativo: mensagem de erro do windows (diagnostico de sistema com muitas informações tecnicas que não são de amplo conhecimento do usuário comum)
 
+![ErroWin](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/Windows_XP_BSOD.png)
+
 exemplo positivo: Mensagem de erro com informações relevantes ao usuário (ops algo deu errado, tente fazer x)
+
+![ErroX](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/sdd.jpg)
 
 #### 10 - Ajuda e Documentação
 
-exemplo negativo: 
+exemplo negativo: TempleOs
 
-exemplo positivo: 
+![TempleOs](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/687474703a2f2f696d6775722e636f6d2f317959735548492e706e67)
+
+exemplo positivo: Documentação Python 
+
+![PythonDoc](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/7383178.png)
