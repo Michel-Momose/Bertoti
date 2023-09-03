@@ -25,7 +25,7 @@
 
 exemplo negativo: Iniciar do windows
 
-![INICIAR DO WINDOWS](Bertoti\Engenharia de Software\imagens\Windows-10-install-is-stuck-during-Installation.webp)
+![INICIAR DO WINDOWS](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/Windows-10-install-is-stuck-during-Installation.webp)
 
 exemplo positivo: status do whatsapp
 
