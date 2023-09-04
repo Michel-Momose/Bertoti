@@ -55,7 +55,7 @@ exemplo negativo:
 
 exemplo positivo: Cores padrões (verde amarelo vermelho) para status / botão de fechar ou sair no topo direito da tela)
 
-![Fechar](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/fechar min max.png)
+![Fechar](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/fechar%20min%20max.png))
 
 #### 5 - Prevenção de erros
 
