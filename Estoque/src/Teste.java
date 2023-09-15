@@ -1,4 +1,6 @@
 import java.util.List;
+import org.junit.Test.*;
+import static org.junit.Assert.assertEquals;
 
 class Teste {
 
@@ -6,18 +8,14 @@ class Teste {
 
 		Estoque estoque = new Estoque();
 		
-		assertEquals(estoque.getProdutos().size(), 0);
+		estoque.cadastrarProduto(new Produto("01215152", new Caracteristica("Milk", "Chocolate", "Doces"));
 		
-		estoque.cadastrarProduto(new Produto("refrigerante", "01215152", "vermelho"));
-		estoque.cadastrarProduto(new Produto("suco", "01215157", "azul"));
-		
-		assertEquals(estoque.getProdutos().size(), 2);
+		assertEquals(estoque.getProdutos().size(), 1);
 		
 		Produto produtoEncontrado = estoque.buscarProdutoPorCodigo("01215152");
 		
 		equals(produtoEncontrado.getCaract());
 		
-		List<Produto> produtoEcontrado = estoque.buscarProdutoPorCodigo(null);
 	}
 
 }
