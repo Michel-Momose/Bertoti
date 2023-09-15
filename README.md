@@ -39,7 +39,7 @@ exemplo negativo: Mensagem de erro 404 no navegador
 
 exemplo positivo: "Pastas" no sistema operacional (metáforas do OS para funcionalidades)
 
-![Folder]!(https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/folder.png)
+![Folder](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/folder.png))
 
 #### 3 - Liberdade e controle de usuário
 
@@ -55,7 +55,7 @@ exemplo negativo:
 
 exemplo positivo: Cores padrões (verde amarelo vermelho) para status / botão de fechar ou sair no topo direito da tela)
 
-![Fechar](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/fechar min max.png)
+![Fechar](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/fechar%20min%20max.png))
 
 #### 5 - Prevenção de erros
 
@@ -103,7 +103,7 @@ exemplo positivo: Mensagem de erro com informações relevantes ao usuário (ops
 
 exemplo negativo: TempleOs
 
-![TempleOs](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/687474703a2f2f696d6775722e636f6d2f317959735548492e706e67)
+![TempleOs](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/687474703a2f2f696d6775722e636f6d2f317959735548492e706e67.png)
 
 exemplo positivo: Documentação Python 
 
