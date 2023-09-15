@@ -108,3 +108,11 @@ exemplo negativo: TempleOs
 exemplo positivo: Documentação Python 
 
 ![PythonDoc](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/7383178.png)
+
+## Diagrama de Casos de Uso
+
+![DiagramaCasoUso](https://github.com/Michel-Momose/Bertoti/blob/main/Diagrama%20de%20caso%20UML.jpg)
+
+## Diagrama de Classes UML
+
+![DiagramaClasse](https://github.com/Michel-Momose/Bertoti/blob/main/diagrama%20de%20classe%20estoque.jpg)
