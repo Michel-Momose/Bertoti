@@ -14,7 +14,7 @@ class Teste {
 		
 		Produto produtoEncontrado = estoque.buscarProdutoPorCodigo("01215152");
 		
-		equals(produtoEncontrado.getCaract());
+		equals(produtoEncontrado.getCodigoBarra());
 		
 	}
 
