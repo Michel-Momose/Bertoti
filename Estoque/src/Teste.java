@@ -8,7 +8,7 @@ class Teste {
 
 		Estoque estoque = new Estoque();
 		
-		estoque.cadastrarProduto(new Produto("01215152", new Caracteristica("Milk", "Chocolate", "Doces"));
+		estoque.cadastrarProduto(new Produto("01215152", new Caracteristica("Milk", "Chocolate", "Doces")));
 		
 		assertEquals(estoque.getProdutos().size(), 1);
 		
