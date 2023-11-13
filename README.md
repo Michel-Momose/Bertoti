@@ -59,6 +59,7 @@ exemplo positivo: Cores padrões (verde amarelo vermelho) para status / botão d
 exemplo negativo: Sistema de e-commerce que aceita informações  de pagamento sem verificar a validade dos dados, resultando em transações mal-sucedidas.
 
 exemplo positivo: Mensagem de "tem certeza que deseja continuar?"
+
 ![Continuar](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/confirmar_exclusao_empenho.png)
 
 #### 6 - Reconhecer ao invés de lembrar
@@ -66,6 +67,7 @@ exemplo positivo: Mensagem de "tem certeza que deseja continuar?"
 exemplo negativo: Um aplicativo que não oferece dicas ou sugestões  ao usuário durante o processo de recuperação de senha.
 
 exemplo positivo: menu "cascata" com as opções 
+
 ![Cascata](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/Cascata.png)
 
 #### 7 - Flexibilidade e Eficiência
