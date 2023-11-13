@@ -20,7 +20,6 @@ public class Teste {
 
         assertEquals("01215152", produtoEncontrado.getCodigoBarra());
 
-        // Restante do seu código para buscar por característica
         Caracteristica caract1 = new Caracteristica("Marca1", "ProdutoA", "DepartamentoX");
         Caracteristica caract2 = new Caracteristica("Marca2", "ProdutoB", "DepartamentoY");
         Caracteristica caract3 = new Caracteristica("Marca1", "ProdutoC", "DepartamentoX");
