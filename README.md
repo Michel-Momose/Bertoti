@@ -40,7 +40,7 @@ exemplo positivo: "Pastas" no sistema operacional (metáforas do OS para funcion
 
 #### 3 - Liberdade e controle de usuário
 
-exemplo negativo: 
+exemplo negativo: Um formulário online que não permite a edição de informações após a submissão, forçando o usuário a preencher tudo novamente em caso de erro.
 
 exemplo positivo: control z (photoshop)
 
@@ -48,7 +48,7 @@ exemplo positivo: control z (photoshop)
 
 #### 4 - Consistência e Padrões
 
-exemplo negativo: 
+exemplo negativo: Um site onde os botões de navegação mudam de posição em diferentes páginas, confundindo o usuário
 
 exemplo positivo: Cores padrões (verde amarelo vermelho) para status / botão de fechar ou sair no topo direito da tela)
 
@@ -56,21 +56,21 @@ exemplo positivo: Cores padrões (verde amarelo vermelho) para status / botão d
 
 #### 5 - Prevenção de erros
 
-exemplo negativo: 
+exemplo negativo: Sistema de e-commerce que aceita informações  de pagamento sem verificar a validade dos dados, resultando em transações mal-sucedidas.
 
 exemplo positivo: Mensagem de "tem certeza que deseja continuar?"
 ![Continuar](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/confirmar_exclusao_empenho.png)
 
 #### 6 - Reconhecer ao invés de lembrar
 
-exemplo negativo: 
+exemplo negativo: Um aplicativo que não oferece dicas ou sugestões  ao usuário durante o processo de recuperação de senha.
 
 exemplo positivo: menu "cascata" com as opções 
 ![Cascata](https://github.com/Michel-Momose/Bertoti/blob/main/Engenharia%20de%20Software/imagens/Cascata.png)
 
 #### 7 - Flexibilidade e Eficiência
 
-exemplo negativo: 
+exemplo negativo: Software de edição de imagens sem  "atalhos" no teclado para ações comuns, tornando o processo mais demorado  para o usuário avançado.
 
 exemplo positivo: Atalhos do teclado photoshop
 
